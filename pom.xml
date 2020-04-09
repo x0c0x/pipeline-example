@@ -57,14 +57,14 @@
 
          <distributionManagement>
 
-<snapshot>
+<repository>
 
 <id>nexus-snapshots</id>
 
 <url>http://192.168.1.100:8081/repository/maven-snapshots/</url>
 
-</snapshot>
+</repository>
 
 </distributionManagement>
-                  
+         
 </project>
